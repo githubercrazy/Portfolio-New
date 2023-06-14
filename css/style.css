@@ -205,10 +205,10 @@ body{
     background-color: white;
 }
 
-.row{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 
